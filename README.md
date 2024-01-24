@@ -1,4 +1,4 @@
-# ICA Products API Documentation *WIP*
+# ICA Products API Documentation _WIP_
 
 Welcome to the ICA Products API documentation! This API provides access to information about various products available in ICA stores. You can retrieve details such as product name, price, availability, images, and offers.
 
@@ -13,6 +13,12 @@ The base URL for the API is `https://handlaprivatkund.ica.se/stores/{storeId}`.
 **Authentication**
 
 No authentication is required to use the API.
+
+## Support the Developer
+
+If you find these docs helpful, consider buying me a coffee to support further development:
+
+<a href="https://www.buymeacoffee.com/cN8Q57HaKt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## API Reference
 
